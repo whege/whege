@@ -2,7 +2,7 @@
 - 👀 I’m interested in big data, AI/ML, and robotics.
 - 🌱 I’m currently learning Graph Databases
 - 💞️ I’m looking to collaborate on anything cool/innovative/challening!
-- 📫 How to reach me: Plz leave me alone...
+- 📫 How to reach me: Discord: R4D4R#9915
 
 <!---
 whegedusich/whegedusich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
