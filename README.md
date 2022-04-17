@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whegedusich
+- 👋 Hi, I’m William
 - 👀 I’m interested in big data, AI/ML, and robotics.
 - 🌱 I’m currently learning Graph Databases
 - 💞️ I’m looking to collaborate on anything cool/innovative/challening!
