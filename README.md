@@ -19,6 +19,8 @@
 - Structuring a Data Science Project
   - [Basic Theory](https://www.kdnuggets.com/2022/05/structure-data-science-project-stepbystep-guide.html)
   - [Implementation using Cookiecutter](https://drivendata.github.io/cookiecutter-data-science/)
+- Just for Fun
+  - [Jupyter Notebook Theming](https://chazf.medium.com/jupyter-dark-mode-themes-b242fb459254)
 
 
 <!---
